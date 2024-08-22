@@ -2,5 +2,5 @@ tavily-python
 ics
 yagmail
 groq
-smtplib
+secure-smtplib
 streamlit
